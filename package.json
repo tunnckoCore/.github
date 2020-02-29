@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "@tunnckocore/policies",
+  "scripts": {
+    "format": "prettier '**/*' --write"
+  },
+  "dependencies": {
+    "@tunnckocore/prettier-config": "^1.3.4",
+    "prettier": "^1.19.1",
+    "prettier-plugin-pkgjson": "^0.2.4"
+  }
+}
